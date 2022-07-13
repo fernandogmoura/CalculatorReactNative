@@ -1,2 +1,1 @@
 # CalculatorReactNative
-# CalculatorReactNative
